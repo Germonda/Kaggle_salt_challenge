@@ -1,10 +1,7 @@
-<img src='imgs/horse2zebra.gif' align="right" width=384>
 
 <br><br><br>
 
-# CycleGAN and pix2pix in PyTorch
+# Kaggle TGS Salt Identification Challenge
 
-We provide PyTorch implementations for both unpaired and paired image-to-image translation.
-
-The code was written by [Jun-Yan Zhu](https://github.com/junyanz) and [Taesung Park](https://github.com/taesung89), and supported by [Tongzhou Wang](https://ssnl.github.io/).
+We used the Kaggle Salt challenge to practice with the [pix2pix code](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) , made available  by Jun-Yan Zhu and Taesung Park (supported by Tongzhou Wang).
 
